@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1589304082 source:c:\users\indian\desktop\work now\projects\hospital_management_system\administration.cpp
+	"administration.h"
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstdio>
+
+1589133768 c:\users\indian\desktop\work now\projects\hospital_management_system\administration.h
+	"doctor.h"
+	"staff.h"
+
+1589148370 c:\users\indian\desktop\work now\projects\hospital_management_system\doctor.h
+	"patient.h"
+
+1589184626 c:\users\indian\desktop\work now\projects\hospital_management_system\patient.h
+	"drug.h"
+
+1589184992 c:\users\indian\desktop\work now\projects\hospital_management_system\drug.h
+
+1589180708 c:\users\indian\desktop\work now\projects\hospital_management_system\staff.h
+
+1613191756 source:c:\users\indian\desktop\work now\projects\hospital_management_system\appointment.cpp
+	<iostream>
+	"appointment.h"
+	<string.h>
+	<fstream>
+
+1589122796 c:\users\indian\desktop\work now\projects\hospital_management_system\appointment.h
+	"doctor.h"
+
+1589270322 source:c:\users\indian\desktop\work now\projects\hospital_management_system\choice.cpp
+	<iostream>
+	<string.h>
+	"choice.h"
+	<stdio.h>
+	<fstream>
+	<string.h>
+
+1589109622 c:\users\indian\desktop\work now\projects\hospital_management_system\choice.h
+	"staff.h"
+	"choice.h"
+	"doctor.h"
+	"patient.h"
+	"administration.h"
+	"appointment.h"
+	"drug.h"
+
+1613199399 source:c:\users\indian\desktop\work now\projects\hospital_management_system\doctor.cpp
+	<iostream>
+	"doctor.h"
+	<fstream>
+	<string.h>
+
+1613191798 source:c:\users\indian\desktop\work now\projects\hospital_management_system\drug.cpp
+	<iostream>
+	"drug.h"
+	<string.h>
+	<fstream>
+
+1589147656 source:c:\users\indian\desktop\work now\projects\hospital_management_system\main.cpp
+	<iostream>
+	"choice.h"
+	"doctor.h"
+	<fstream>
+	<stdlib.h>
+	<string>
+
+1613199534 source:c:\users\indian\desktop\work now\projects\hospital_management_system\patient.cpp
+	"patient.h"
+	"appointment.h"
+	<iostream>
+	<string.h>
+	<fstream>
+
+1613191922 source:c:\users\indian\desktop\work now\projects\hospital_management_system\staff.cpp
+	"Staff.h"
+	<iostream>
+	<string.h>
+	<fstream>
+
